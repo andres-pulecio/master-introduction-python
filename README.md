@@ -1,2 +1,2 @@
 # master-introduction-python
-Python exercises from the introductory course of INNUME's master cloud formation.
+Python exercises from the introductory course of INNUME's [master cloud formation](https://l.immune.institute/master-cloud-computing-online-latam?utm_term=formacion%20cloud%20computing&utm_campaign=2304VCCO_GO_BUS_COL_M&utm_source=adwords&utm_medium=ppc&hsa_acc=8660896980&hsa_cam=19628951160&hsa_grp=146236948232&hsa_ad=646594513321&hsa_src=g&hsa_tgt=kwd-353672530949&hsa_kw=formacion%20cloud%20computing&hsa_mt=b&hsa_net=adwords&hsa_ver=3).
